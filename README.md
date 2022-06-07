@@ -4,4 +4,4 @@ The Twitch social network composes of users. A small percent of those users broa
 
 The network information was scraped between the 7th and the 10th of May 2021.
 
-Following this [article](https://towardsdatascience.com/twitchverse-a-network-analysis-of-twitch-universe-using-neo4j-graph-data-science-d7218b4453ff) to understand how neo4j works.
+Followed this [article](https://towardsdatascience.com/twitchverse-a-network-analysis-of-twitch-universe-using-neo4j-graph-data-science-d7218b4453ff) to understand how neo4j works.
